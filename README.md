@@ -14,8 +14,8 @@ The following directory structure will be used to house these TCK Results:
 ```https://openliberty.io/certifications/jakartaee/<specification>/<specification version>/TCKResults```
 For example,
 ```
-https://openliberty.io/certifications/jakartaee/platform/8.0/TCKResults.html
-https://openliberty.io/certifications/jakartaee/webprofile/8.0/TCKResults.html
+https://openliberty.io/certifications/jakartaee/platform/8/TCKResults.html
+https://openliberty.io/certifications/jakartaee/webprofile/8/TCKResults.html
 https://openliberty.io/certifications/jakartaee/servlet/4.0/TCKResults.html
 ```
 ## TCKResults content

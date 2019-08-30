@@ -10,20 +10,27 @@ https://openliberty.io/download[Open Liberty]
 
 * Specification Name, Version and download URL:
 +
-https://jakarta.ee/specifications/jakartaee-dummy-test/x.0[Jakarta EE Dummy, Test x.0]
+https://jakarta.ee/specifications/dummy-test/x.0[Jakarta EE Dummy Test x.0]
 
 * TCK Version, digital SHA-256 fingerprint and download URL:
 +
-https://download.eclipse.org/jakartaee/dummy-test/x/eclipse-jakartaeedummytesttck-x.0.0.zip[Jakarta EE Dummy Test CTS x.0], SHA-256: `not a hash`
+https://download.eclipse.org/jakartaee/dummy-test/x.0/eclipse-dummy-test-tck-x.0.0.zip[Jakarta EE Dummy Test TCK x.0], SHA-256: `not a hash`
 
 * Public URL of TCK Results Summary:
 +
 link:TCK-Results.html[TCK results summary]
 
 * Any Additional Specification Certification Requirements:
++
+Jakarta Contexts and Dependency Injection
++
+https://download.eclipse.org/ee4j/cdi/cdi-tck-2.0.6-dist.zip[cdi-tck-2.0.6-dist.zip], SHA-256:
+  `not a hash`<br/>
+
 * Java runtime used to run the implementation:
 +
-Eclipse OpenJ9 1.8.222
+OpenJDK 8 + HotSpot (jdk8u222-b10)
+
 * Summary of the information for the certification environment, operating system, cloud, ...:
 +
 Apache Derby, Linux, Ubuntu 16.04
